@@ -31,7 +31,7 @@
 	"php": "^7.1",
         "drupal-composer/drupal-scaffold": "^2.0.0",
         "cweagans/composer-patches": "^1.6.0",
-        "acquia/lightning_commerce": "^1.5.0",
+        "acquia/lightning_commerce": "^1.7.0",
         "drupal/core": "~8"
     },
     "repositories": [
